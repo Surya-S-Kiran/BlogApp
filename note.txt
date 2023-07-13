@@ -1,0 +1,15 @@
+coding with dawid
+ -------------------client------------------------------------------------
+ yarn create react-app .
+ yarn start
+ yarn add eslint-config-react -D
+
+
+ -------------------------------------------------------------------------
+ -------------------------------api--------------------------------------
+ npm i mongoose express 
+ npm i cors
+ npm i bcrypt.js
+ npm i jsonwebtoken
+ npm i cookie-parser
+1:41:00
